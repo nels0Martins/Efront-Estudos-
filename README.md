@@ -9,10 +9,10 @@
 # Bônus:
 <p>Se aprofunde nos conhecimentos de CSS Flexbox e CSS Grid Layout: </p>
 
-<p><a href="https://codepen.io/collection/RzZVEK?sort_by=itemcreatedat"> >> CSS Flexbox (Bônus) </a></p>
-<p><a href="#"> >> CSS Grid Layout (Bônus) </a></p>
+<p><a href="https://codepen.io/collection/RzZVEK?sort_by=itemcreatedat" target="_blank"> >> CSS Flexbox (Bônus) </a></p>
+<p><a href="https://codepen.io/mr-zayko/pen/poYgKJm?editors=1000" target="_blank"> >> CSS Grid Layout (Bônus) </a></p>
 
 # Aprenda junto comigo
 <p>Se deseja aprender tudo que eu sei de Front End de maneira simples e intuitiva, direto ao ponto com alguém que possui experência do que realmente é usado no mercado e sem enrolação, acesse o link abaixo e venha estudar a mesma coisa que eu, garanto que será um salto na sua carreira!! Acesse:</p>
 
-<p><a href="https://hotm.art/i0pH9R2F"> >> Efront</a></p>
+<p><a href="https://hotm.art/i0pH9R2F" target="_blank"> >> Efront</a></p>
